@@ -6,8 +6,6 @@
 /* third party libraries */
 #include <openssl/evp.h>
 
-/* You shouldn't have to be looking at this file, but have fun! */
-
 
 struct sha1sum_ctx {
 	EVP_MD_CTX ctx;
