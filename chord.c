@@ -1,6 +1,5 @@
 /**
- * Assignment 5 Chord Implementation
- * @author Kyle Herock
+ * @author Maxim Kapelina
  */
 #include <argp.h>
 #include <arpa/inet.h>
